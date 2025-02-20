@@ -15,7 +15,7 @@ You can checkout the live version of the application at https://spring-ws-chat.h
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-websocket-chat-demo.git
+git clone https://github.com/andriimelnyk93/spring-boot-websocket-chat-demo.git
 ```
 
 **2. Build and run the app using maven**
@@ -31,6 +31,4 @@ Alternatively, you can run the app directly without packaging it like so -
 ```bash
 mvn spring-boot:run
 ```
-
-## Learn More
 
